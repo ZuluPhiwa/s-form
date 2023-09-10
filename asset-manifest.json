@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/softtech-f/static/css/main.797afbf6.css",
-    "main.js": "/softtech-f/static/js/main.8bc40101.js",
-    "static/js/787.0fd920f3.chunk.js": "/softtech-f/static/js/787.0fd920f3.chunk.js",
-    "index.html": "/softtech-f/index.html",
-    "main.797afbf6.css.map": "/softtech-f/static/css/main.797afbf6.css.map",
-    "main.8bc40101.js.map": "/softtech-f/static/js/main.8bc40101.js.map",
-    "787.0fd920f3.chunk.js.map": "/softtech-f/static/js/787.0fd920f3.chunk.js.map"
+    "main.css": "/s-form/static/css/main.797afbf6.css",
+    "main.js": "/s-form/static/js/main.3ff0932c.js",
+    "static/js/787.0fd920f3.chunk.js": "/s-form/static/js/787.0fd920f3.chunk.js",
+    "index.html": "/s-form/index.html",
+    "main.797afbf6.css.map": "/s-form/static/css/main.797afbf6.css.map",
+    "main.3ff0932c.js.map": "/s-form/static/js/main.3ff0932c.js.map",
+    "787.0fd920f3.chunk.js.map": "/s-form/static/js/787.0fd920f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.797afbf6.css",
-    "static/js/main.8bc40101.js"
+    "static/js/main.3ff0932c.js"
   ]
 }
